@@ -1,3 +1,7 @@
+---
+Title: About Us
+---
+
 Our Team includes...
 
   - Thomas Kennedy
