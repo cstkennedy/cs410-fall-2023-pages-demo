@@ -1,0 +1,100 @@
+
+
+/*
+#content div.row {
+   margin-left: 0;
+   margin-right: 0; 
+    padding: 0;
+}
+
+/*
+#content div.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+*/
+
+/*
+article#contact, 
+article#schedule{
+     min-height: 240px;     
+}
+
+article#contact{
+     width: 450px;
+     min-width: 450px;
+     max-width: 450px;
+     
+     float:left;
+}
+article#schedule{
+     margin-left: 8px;
+     width: 446px;
+     float: left;
+}
+*/
+
+article#schedule table td:first-child{
+     vertical-align: top;
+
+}
+
+article#schedule table td:nth-child(2){
+     text-align: justify;
+}
+
+/*
+article#current_courses{
+     clear: both;
+}
+
+
+
+article.clear{
+     clear: both;
+}
+*/
+
+article#contact table tr td:first-child{
+     vertical-align: top;
+}
+
+article#schedule table{
+
+    width: 100%;
+}
+
+article#schedule table tr td:first-child{
+     vertical-align: middle;
+}
+
+article#schedule {
+
+}
+
+
+article#contact table tr td:first-child,
+article#schedule tr td:first-child{
+     font-weight: bold;
+}
+
+/*
+a{
+     text-decoration: none;
+     color: #0000FF;
+}
+
+a:hover{
+     text-decoration: underline;
+}
+
+
+
+*/
+
+
+div.panel-content ul, #current_courses ul
+{
+    list-style-type: none;
+}
